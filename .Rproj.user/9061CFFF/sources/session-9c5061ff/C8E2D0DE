@@ -1,11 +1,11 @@
 {
     "id": "C8E2D0DE",
-    "path": "C:/Users/Ousmane/OneDrive/Bureau/PERSO AIDC/TP3_acp/tp3_acp.R",
-    "project_path": "tp3_acp.R",
+    "path": "C:/Users/Ousmane/OneDrive/Bureau/PERSO AIDC/TP3_acp/cancers_analyse.R",
+    "project_path": "cancers_analyse.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2610675097",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1767695146690.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -16,11 +16,11 @@
         "scrollLine": "30"
     },
     "folds": "",
-    "lastKnownWriteTime": 1767698950,
+    "lastKnownWriteTime": 1767709061,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1767707732126,
+    "last_content_update": 1767709061,
     "read_only": false,
     "read_only_alternatives": []
 }
